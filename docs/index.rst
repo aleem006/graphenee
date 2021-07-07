@@ -3,18 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Graphenee's documentation!
-=====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+	:maxdepth:3
+	introduction
+	key_topics
+	modules
+	get_started
+	Core Module
+	Vaadin Module 
+	Localization Module
+	Security Module
+	SMS Module
+	JBPM Module 
+	
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
